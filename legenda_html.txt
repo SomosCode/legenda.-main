@@ -1,0 +1,105 @@
+<main class="main">
+    
+    <!-- Hero Section -->
+    <!-- Sección destacada al inicio de la página, usualmente con un mensaje de bienvenida y llamado a la acción -->
+    <section class="hero">
+        <div class="container">
+            <!-- Título principal de la sección hero -->
+            <h1>Welcome to TattooArt</h1>
+            <!-- Descripción breve de lo que ofrece el sitio -->
+            <p>Your one-stop shop for all things tattoo-related.</p>
+            <!-- Botón de llamada a la acción para dirigir a los usuarios a la tienda -->
+            <a href="#" class="btn-primary">Shop Now</a>
+        </div>
+    </section>
+
+    <!-- Categories Section -->
+    <!-- Sección para mostrar las categorías de productos disponibles -->
+    <section class="categories">
+        <div class="container">
+            <!-- Título de la sección de categorías -->
+            <h2>Shop by Category</h2>
+            <div class="category-cards">
+                <!-- Tarjetas de categoría, cada una con una imagen y título -->
+                <div class="category-card">
+                    <img src="category1.jpg" alt="Category 1"> <!-- Imagen de la categoría -->
+                    <h3>Category 1</h3> <!-- Título de la categoría -->
+                </div>
+                <div class="category-card">
+                    <img src="category2.jpg" alt="Category 2"> <!-- Imagen de la categoría -->
+                    <h3>Category 2</h3> <!-- Título de la categoría -->
+                </div>
+                <div class="category-card">
+                    <img src="category3.jpg" alt="Category 3"> <!-- Imagen de la categoría -->
+                    <h3>Category 3</h3> <!-- Título de la categoría -->
+                </div>
+                <div class="category-card">
+                    <img src="category4.jpg" alt="Category 4"> <!-- Imagen de la categoría -->
+                    <h3>Category 4</h3> <!-- Título de la categoría -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Products Section -->
+    <!-- Sección para mostrar productos destacados -->
+    <section class="featured-products">
+        <div class="container">
+            <!-- Título de la sección de productos destacados -->
+            <h2>Featured Products</h2>
+            <div class="product-cards">
+                <!-- Tarjetas de producto, cada una con una imagen, título, precio y botón de compra -->
+                <div class="product-card">
+                    <img src="product1.jpg" alt="Product 1"> <!-- Imagen del producto -->
+                    <h3>Product 1</h3> <!-- Título del producto -->
+                    <p>$29.99</p> <!-- Precio del producto -->
+                    <a href="#" class="btn-secondary">Add to Cart</a> <!-- Botón para añadir al carrito -->
+                </div>
+                <div class="product-card">
+                    <img src="product2.jpg" alt="Product 2"> <!-- Imagen del producto -->
+                    <h3>Product 2</h3> <!-- Título del producto -->
+                    <p>$39.99</p> <!-- Precio del producto -->
+                    <a href="#" class="btn-secondary">Add to Cart</a> <!-- Botón para añadir al carrito -->
+                </div>
+                <div class="product-card">
+                    <img src="product3.jpg" alt="Product 3"> <!-- Imagen del producto -->
+                    <h3>Product 3</h3> <!-- Título del producto -->
+                    <p>$49.99</p> <!-- Precio del producto -->
+                    <a href="#" class="btn-secondary">Add to Cart</a> <!-- Botón para añadir al carrito -->
+                </div>
+                <div class="product-card">
+                    <img src="product4.jpg" alt="Product 4"> <!-- Imagen del producto -->
+                    <h3>Product 4</h3> <!-- Título del producto -->
+                    <p>$59.99</p> <!-- Precio del producto -->
+                    <a href="#" class="btn-secondary">Add to Cart</a> <!-- Botón para añadir al carrito -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Promotions Section -->
+    <!-- Sección para mostrar promociones actuales -->
+    <section class="promotions">
+        <div class="container">
+            <!-- Título de la sección de promociones -->
+            <h2>Current Promotions</h2>
+            <div class="promotion-cards">
+                <!-- Tarjetas de promoción, cada una con una imagen, título y descripción -->
+                <div class="promotion-card">
+                    <img src="promo1.jpg" alt="Promotion 1"> <!-- Imagen de la promoción -->
+                    <h3>Promotion 1</h3> <!-- Título de la promoción -->
+                    <p>Up to 50% off!</p> <!-- Descripción de la promoción -->
+                    <a href="#" class="btn-primary">Shop Now</a> <!-- Botón para comprar ahora -->
+                </div>
+                <div class="promotion-card">
+                    <img src="promo2.jpg" alt="Promotion 2"> <!-- Imagen de la promoción -->
+                    <h3>Promotion 2</h3> <!-- Título de la promoción -->
+                    <p>Buy one, get one free!</p> <!-- Descripción de la promoción -->
+                    <a href="#" class="btn-primary">Shop Now</a> <!-- Botón para comprar ahora -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+</main>
+
